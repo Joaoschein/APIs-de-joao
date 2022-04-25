@@ -1,0 +1,1 @@
+export const BASE_ME_LEVA_AI_API_URL = 'http://localhost:8080/'

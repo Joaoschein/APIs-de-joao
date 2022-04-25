@@ -1,0 +1,35 @@
+.carroImg {
+    width: 250px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.nomeMotorista{
+    margin: 4px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.infoMotorista{
+    margin: 4px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.motoristaDiv {
+    display: flex;
+    align-items: center;
+    background-color: rgba(61, 61, 161, 0.562);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.divInfo{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+}

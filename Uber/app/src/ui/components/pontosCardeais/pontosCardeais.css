@@ -1,0 +1,25 @@
+.mainPontosDiv{
+
+    display: flex;
+    align-items: center;
+    background-color: rgba(61, 61, 161, 0.562);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+
+}
+
+.pontoDiv{
+    padding: 10px;
+}
+
+.labelPontos {
+    padding: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+.ponto {
+    display: flex;
+    flex-direction: column;
+}

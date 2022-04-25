@@ -1,0 +1,30 @@
+.motoristasDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(61, 61, 161, 0.562);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.botaoMotorista {
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 30px 0;
+    border: solid 2px white;
+    padding: 5px;
+    overflow: hidden;
+    transition: 1s all ease;
+    background-color: rgba(26, 5, 211, 0);
+    border-radius: 2px;
+    margin: 5px;
+
+}
+
+.botaoMotorista:hover {
+    background-color: rgba(56, 56, 228, 0.575);
+}

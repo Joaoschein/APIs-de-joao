@@ -1,0 +1,5 @@
+export {PassageirosScreen} from './passageiros/passageiro.screen'
+export {MenuInicial} from './menuInicial/menu.Screen'
+export {MotoristasScreen} from './motoristas/motoristas.screen'
+export {PassageiroSelecionado} from './passageiroSelecionado/passageiroSelecionado.screen'
+export {MotoristaSelecionado} from './motoristaSelecionado/motoristaSelecionado.Screen'
