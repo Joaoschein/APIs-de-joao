@@ -1,0 +1,1 @@
+export const BASE_OLDFLIX_API_URL = 'http://localhost:8080'
